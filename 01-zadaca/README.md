@@ -1,4 +1,4 @@
-# webapps-zadace
+# 01-zadaca
 
 ## Project setup
 ```
